@@ -6,4 +6,4 @@ Dataset used : LJ Speech dataset, downloaded audio books
 
 (on going project)
 
-!(https://github.com/bellagodiva/Phase-Reconstruction-for-Amplitude-Spectrograms/blob/main/Model%201.png)
+![Model 1](https://github.com/bellagodiva/Phase-Reconstruction-for-Amplitude-Spectrograms/blob/main/Model%201.png)
